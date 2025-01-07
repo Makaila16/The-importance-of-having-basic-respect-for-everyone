@@ -1,0 +1,49 @@
+Body {
+  color: #8b4513;
+  font-family:sans-serif;
+  font-size: 15px;
+  background-color: #cc824e;
+}
+
+a {
+  color: #8b4513;
+  font-family:sans-serif;
+  border-style: solid;
+  border-radius:15px;
+  padding:7px;
+  border-color:#dc143c;
+  background-color:#ff9392;
+}
+
+a: link{
+  color: #ff69b4;
+  text-decoration:underline;
+  font-size: 20px;
+}
+
+a: visited {
+  color: #ffc0cb;
+}
+
+a : hover{
+  color: #afeeee;
+  text-decoration-style: wavy;
+}
+
+a : active{
+  color: aquamarine;
+}
+
+img{
+  border-style:groove;
+  border-color:#dc143c;
+  border-radius: 20px;
+  float:right;
+  width: 350px;
+  margin: 50px;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 10px;
+  height:200px;
+  margin: 10px;
+}
